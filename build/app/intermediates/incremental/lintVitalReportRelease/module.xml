@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="C:\flutter\daily_toeic_test\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.1.2"
+    buildFolder="C:\flutter\daily_toeic_test\build\app"
+    bootClassPath="C:\Users\Elijah\AppData\Local\Android\sdk\platforms\android-33\android.jar;C:\Users\Elijah\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-33">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

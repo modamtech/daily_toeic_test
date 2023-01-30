@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1085839121434",
+    "project_id": "dailytoeictest",
+    "storage_bucket": "dailytoeictest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1085839121434:android:f14f514616991f9fcd45a3",
+        "android_client_info": {
+          "package_name": "com.modamtech.daily_toeic_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1085839121434-hianofk5qvpuvgrl68vfkedn7sar4rlb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC35AbnTnomxmHJ2TznS2IraELYNSEBIpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1085839121434-hianofk5qvpuvgrl68vfkedn7sar4rlb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

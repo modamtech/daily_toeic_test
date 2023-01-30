@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186315158678",
+    "project_id": "englishdialog-a7d72",
+    "storage_bucket": "englishdialog-a7d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186315158678:android:817f0187f78200ff113eb7",
+        "android_client_info": {
+          "package_name": "com.modamtech.english_dialog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186315158678-s8qoitae1lad80q6baocal22dajgq3k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfZ0MtV9v-d1NuBiyIpTrxPbdgVQYUCoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186315158678-s8qoitae1lad80q6baocal22dajgq3k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

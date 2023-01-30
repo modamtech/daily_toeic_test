@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">799409661631-0k9uld382m6np0ssg0pvk3f17a1si2mc.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">799409661631</string>
+    <string name="google_api_key" translatable="false">AIzaSyD75o9MNpU0s47w2Hca5h7z5o9xuStJlU4</string>
+    <string name="google_app_id" translatable="false">1:799409661631:android:12c852a3bb2dece915c80a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyD75o9MNpU0s47w2Hca5h7z5o9xuStJlU4</string>
+    <string name="google_storage_bucket" translatable="false">dialectdicjeju.appspot.com</string>
+    <string name="project_id" translatable="false">dialectdicjeju</string>
+</resources>
